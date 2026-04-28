@@ -1,0 +1,15 @@
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\bin\Debug\net8.0\MateriVariabel.exe
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\bin\Debug\net8.0\MateriVariabel.deps.json
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\bin\Debug\net8.0\MateriVariabel.runtimeconfig.json
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\bin\Debug\net8.0\MateriVariabel.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\bin\Debug\net8.0\MateriVariabel.pdb
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.AssemblyInfoInputs.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.AssemblyInfo.cs
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.csproj.CoreCompileInputs.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.sourcelink.json
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\refint\MateriVariabel.dll
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.pdb
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\MateriVariabel.genruntimeconfig.cache
+C:\Users\Nodofch\Belajar\Belajar-C#\01-Dasar-CSharp\MateriVariabel\obj\Debug\net8.0\ref\MateriVariabel.dll
