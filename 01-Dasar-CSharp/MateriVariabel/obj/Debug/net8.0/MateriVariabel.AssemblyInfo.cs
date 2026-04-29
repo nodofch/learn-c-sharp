@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MateriVariabel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3d992ff677582e6301ffa6e204e49acaca2ffa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4529ca03906441e182b611ad9d51709b4243058")]
 [assembly: System.Reflection.AssemblyProductAttribute("MateriVariabel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MateriVariabel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
